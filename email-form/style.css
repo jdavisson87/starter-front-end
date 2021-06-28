@@ -1,0 +1,23 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+}
+
+form div {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+form div textarea {
+  height: 150px;
+  margin-left: 6px;
+}
+
+form div label {
+  width: 100%;
+  margin-left: 6px;
+}
